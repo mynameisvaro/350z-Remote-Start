@@ -173,7 +173,7 @@ Download an app that can send BLE messages (like nRF Connect), find the "350z" d
 
 Here are some pictures of the boards I designed to make this more compact
 
-Here is a [video](https://varohome.duckdns.org/GithubAssets/Remote_Start.MOV) of how everything works together
+Here is a [video](https://varohome.duckdns.org/GithubAssets/Remote_Start.mp4) of how everything works together
 
 > **NOTE:** I made a T in every connector to maintain the original functionalities of the car, I also power off the transponder in every remote start situation to avoid multiple devices taking on the same connection
 
